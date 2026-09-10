@@ -1,2 +1,2 @@
-# site-ong-faculdade
-Projeto da faculdade Cruzeiro do Sul
+# instituto-raizes
+Experiência prática - faculdade Cruzeiro do Sul
